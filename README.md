@@ -1,0 +1,1 @@
+# gnoppix-settings
